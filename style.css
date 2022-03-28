@@ -1,0 +1,196 @@
+/* FONT IMPORTS */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
+
+/* BODY */
+
+body {
+  background-color: #d6d6d6;
+}
+
+/* COVER IMAGE + NAV BAR */
+
+@font-face {
+  font-family: Moderne Sans;
+  src: url(forest.gif);
+}
+* {
+  box-sizing: border-box;
+}
+
+video { 
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    opacity: 0.6;
+    filter: brightness(30%);
+    
+}
+div#greytown {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header {
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  color: white;
+  transition: .4s;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 0;
+    -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+    background-color: #48514a;
+}
+
+nav a {
+  text-decoration: none;
+  color: inherit;
+  padding: 1rem;
+}
+h2 { 
+  font-family: Century Schoolbook, Century Schoolbook L, Georgia, serif;
+  font-size: 8vmin;
+  text-align: center;
+  margin: 2rem 3rem 0;
+  mix-blend-mode: overlay;
+  color: #fff;
+  font-weight: 100;
+}
+
+/* BACK TO TOP BUTTON */
+
+.back-to-top {
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
+}
+
+.hidden {
+  display: none;
+  opacity: 0%;
+}
+
+.arrow {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+
+.back-to-top-icon {
+  width: 1rem;
+  height: 1rem;
+  color: #ffffff;
+}
+
+.back-to-top {
+  position: fixed;
+  right: 2rem;
+  bottom: 2rem;
+  border-radius: 100%;
+  background: #48514a;
+  padding: 0.5rem;
+  border: none;
+  cursor: pointer;
+  opacity: 100%;
+  transition: opacity 0.5s;
+}
+
+.back-to-top:hover {
+  opacity: 60%;
+}
+
+/* FOOTER */
+
+.footer-text {
+  font-size: 8px;
+  text-align: center;
+}
+
+/* PARAGRAPH 1 */
+
+.paragraph-1 {
+  text-align: center;
+  margin-right: 20%;
+  margin-left: 20%;
+  color: #48514a;
+  font-family: 'Playfair Display', serif;
+}
+
+/* IMAGE SECTION 1 */
+
+.flex-container-1 {
+  display: flex;
+  background-color: transparent;
+  justify-content: center;
+}
+
+.food-container {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 40px;
+  font-size: 30px;
+  width:400px;
+  height: 500px;
+}
+
+.accomadation-container {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  width:400px;
+  height: 500px;
+}
+
+/* PARAGRAPH 2 */
+
+.paragraph-2 {
+  text-align: center;
+  margin-right: 20%;
+  margin-left: 20%;
+  color: #48514a;
+  font-family: 'Playfair Display', serif;
+}
+
+/* IMAGE SECTION 2 */
+
+.flex-container-2 {
+  display: flex;
+  background-color: transparent;
+  justify-content: center;
+}
+
+.shops-container {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 40px;
+  font-size: 30px;
+  width:400px;
+  height: 500px;
+}
+
+.history-container {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  width:400px;
+  height: 500px;
+}
