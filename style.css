@@ -290,8 +290,10 @@ h2 {
 
 .food-top-img {
 overflow: hidden;
+object-fit: fill;
 margin-top: -10px;
 margin-bottom: 0px;
-margin-right: -180px;
+margin-right: 180px;
 margin-left: -180px;
+  
 }
