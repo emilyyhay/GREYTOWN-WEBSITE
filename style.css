@@ -289,5 +289,9 @@ h2 {
 /* FOOD TOP IMAGE */
 
 .food-top-img {
-  
+overflow: hidden;
+margin-top: -10px;
+margin-bottom: 0px;
+margin-right: -180px;
+margin-left: -180px;
 }
