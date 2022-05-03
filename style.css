@@ -116,13 +116,6 @@ h2 {
   opacity: 60%;
 }
 
-/* FOOTER */
-
-.footer-text {
-  font-size: 8px;
-  text-align: center;
-}
-
 /* PARAGRAPH 1 */
 
 .paragraph-1 {
@@ -144,19 +137,64 @@ h2 {
 .food-container {
   background-color: #f1f1f1;
   margin: 10px;
-  padding: 40px;
+  padding: 15px;
   font-size: 30px;
   width:400px;
   height: 500px;
+  text-align: center;
 }
+
+/* IMAGE */
+
+.img-1 {
+  margin-top: 5%;
+}
+
+/* BUTTON */
+
+.food-button {
+  background-color: #48514a;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 2%;
+  font-family: 'Playfair Display', serif;
+}
+
 
 .accomadation-container {
   background-color: #f1f1f1;
   margin: 10px;
-  padding: 20px;
+  padding: 15px;
   font-size: 30px;
   width:400px;
   height: 500px;
+  text-align: center;
+}
+
+/* IMAGE */
+
+.img-2 {
+  margin-top: 5%;
+}
+
+/* BUTTON */
+
+.accomadation-button {
+   background-color: #48514a;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 2%;
+  font-family: 'Playfair Display', serif;
 }
 
 /* PARAGRAPH 2 */
@@ -180,17 +218,76 @@ h2 {
 .shops-container {
   background-color: #f1f1f1;
   margin: 10px;
-  padding: 40px;
+  padding: 15px;
   font-size: 30px;
   width:400px;
   height: 500px;
+  text-align: center;
+}
+
+/* IMAGE */
+
+.img-3 {
+  margin-top: 5%;
+}
+
+/* BUTTON */
+
+.shops-button {
+   background-color: #48514a;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 2%;
+  font-family: 'Playfair Display', serif;
 }
 
 .history-container {
   background-color: #f1f1f1;
   margin: 10px;
-  padding: 20px;
+  padding: 15px;
   font-size: 30px;
   width:400px;
   height: 500px;
+  text-align: center;
+}
+
+/* IMAGE */
+
+.img-4 {
+  margin-top: 5%;
+}
+
+/* BUTTON */
+
+.history-button {
+  background-color: #48514a;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 2%;
+  font-family: 'Playfair Display', serif;
+}
+
+/* FOOTER */
+
+.footer-text {
+  font-size: 8px;
+  text-align: center;
+}
+
+/* FOOD PAGE */
+
+/* FOOD TOP IMAGE */
+
+.food-top-img {
+  
 }
