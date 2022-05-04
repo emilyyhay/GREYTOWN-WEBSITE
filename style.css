@@ -300,3 +300,7 @@ height: 300px;
 }
 
 /* FOOD TITLE */
+
+.food-title-h1 {
+  text-align: center;
+}
