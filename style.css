@@ -305,3 +305,23 @@ height: 300px;
   text-align: center;
   color: #48514a;
 }
+
+/* MEENEEZ SECTION */
+
+.meeneez-flex-container{
+   width: 600px;
+  margin: auto;
+  background-color: yellow;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+.meeneez-photo {
+  text-align: center;
+}
+
+.meeneez-text {
+ height: 194px;
+}
