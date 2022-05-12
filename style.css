@@ -14,6 +14,16 @@ body {
   font-family: Moderne Sans;
   src: url(forest.gif);
 }
+
+@font-face {
+    font-family: 'alameda_script_personal_useRg';
+    src: url('alameda_script/alamedascript_personal_use_only-webfont.woff2') format('woff2'),
+         url('alamedascript_personal_use_only-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 * {
   box-sizing: border-box;
 }
@@ -59,7 +69,7 @@ nav a {
   padding: 1rem;
 }
 h2 { 
-  font-family: Century Schoolbook, Century Schoolbook L, Georgia, serif;
+  font-family: 'alameda_script_personal_useRg';
   font-size: 8vmin;
   text-align: center;
   margin: 2rem 3rem 0;
@@ -309,9 +319,8 @@ height: 300px;
 /* MEENEEZ SECTION */
 
 .meeneez-flex-container{
-   width: 600px;
+   width: 700px;
   margin: auto;
-  background-color: yellow;
 }
 .floatLeft {
   float: left;
@@ -324,4 +333,46 @@ height: 300px;
 
 .meeneez-text {
  height: 194px;
+  padding-top: 20px;
+}
+
+.meeneez-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.meeneez-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* MAIN STREET DELI SECTION */
+
+.main-st-deli-flex-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.main-st-deli-photo {
+  text-align: center;
+}
+
+.main-st-deli-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.main-st-deli-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.main-st-deli-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
 }
