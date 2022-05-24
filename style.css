@@ -76,6 +76,8 @@ h2 {
   mix-blend-mode: overlay;
   color: #fff;
   font-weight: 100;
+  letter-spacing: 3px;
+  font-size: 150px;
 }
 
 /* BACK TO TOP BUTTON */
@@ -346,6 +348,10 @@ height: 300px;
   font-family: 'Playfair Display', serif;
 }
 
+.meeneez-more-info {
+  color: pink;
+}
+
 /* MAIN STREET DELI SECTION */
 
 .main-st-deli-flex-container{
@@ -373,6 +379,347 @@ height: 300px;
 }
 
 .main-st-deli-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* AROMA INDIA SECTION */
+
+.aroma-india-flex-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.aroma-india-photo {
+  text-align: center;
+}
+
+.aroma-india-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.aroma-india-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.aroma-india-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* THE OFFERING SECTION */
+
+.offering-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.offering-photo {
+  text-align: center;
+}
+
+.offering-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.offering-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.offering-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* THE WHITE SWAN SECTION */
+
+.white-swan-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.white-swan-photo {
+  text-align: center;
+}
+
+.white-swan-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.white-swan-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.white-swan-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* 1860 SECTION */
+
+.r1860-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.r1860-photo {
+  text-align: center;
+}
+
+.r1860-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.r1860-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.r1860-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* CAHOOTS SECTION */
+
+.cahoots-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.cahoots-photo {
+  text-align: center;
+}
+
+.cahoots-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.cahoots-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.cahoots-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* THE GREYTOWN FISH SUPPLY SECTION */
+
+.greytown-fish-supply-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.greytown-fish-supply-photo {
+  text-align: center;
+}
+
+.greytown-fish-supply-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.greytown-fish-supply-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.greytown-fish-supply-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* PINOCCHIO SECTION */
+
+.pinocchio-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.pinocchio-photo {
+  text-align: center;
+}
+
+.pinocchio-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.pinocchio-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.pinocchio-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* GREYTOWN KEBAB SECTION */
+
+.greytown-kebab-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.greytown-kebab-photo {
+  text-align: center;
+}
+
+.greytown-kebab-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.greytown-kebab-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.greytown-kebab-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* CUCKOO PIZZA SECTION */
+
+.cuckoo-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.cuckoo-photo {
+  text-align: center;
+}
+
+.cuckoo-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.cuckoo-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.cuckoo-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* CORNER CAFE SECTION */
+
+.corner-cafe-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.corner-cafe-photo {
+  text-align: center;
+}
+
+.corner-cafe-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.corner-cafe-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.corner-cafe-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* THE FRENCH BAKER SECTION */
+
+.the-french-baker-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.the-french-baker-photo {
+  text-align: center;
+}
+
+.the-french-baker-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.the-french-baker-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.the-french-baker-p {
   color: #a5aaa4;
   font-family: 'Playfair Display', serif;
 }
