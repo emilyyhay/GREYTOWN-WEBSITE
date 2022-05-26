@@ -2,6 +2,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
 /* BODY */
 
 body {
@@ -335,7 +337,7 @@ height: 300px;
 
 .meeneez-text {
  height: 194px;
-  padding-top: 20px;
+  padding-top: 5px;
 }
 
 .meeneez-h3 {
@@ -348,8 +350,18 @@ height: 300px;
   font-family: 'Playfair Display', serif;
 }
 
-.meeneez-more-info {
-  color: pink;
+.meeneez-more-info{
+  background-color: #a64dc2;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
 }
 
 /* MAIN STREET DELI SECTION */
@@ -370,7 +382,7 @@ height: 300px;
 
 .main-st-deli-text {
  height: 194px;
-  padding-top: 20px;
+  padding-top: 2px;
 }
 
 .main-st-deli-h3 {
@@ -383,16 +395,29 @@ height: 300px;
   font-family: 'Playfair Display', serif;
 }
 
+.main-st-deli-more-info{
+  background-color: #bf4c3e;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
+}
+
 /* AROMA INDIA SECTION */
 
-.aroma-india-flex-container{
+.aroma-india-container{
    width: 700px;
   margin: auto;
 }
 .floatLeft {
   float: left;
   padding-right: 20px;
-  
 }
 
 .aroma-india-photo {
@@ -401,7 +426,7 @@ height: 300px;
 
 .aroma-india-text {
  height: 194px;
-  padding-top: 20px;
+  padding-top: 2px;
 }
 
 .aroma-india-h3 {
@@ -412,6 +437,20 @@ height: 300px;
 .aroma-india-p {
   color: #a5aaa4;
   font-family: 'Playfair Display', serif;
+}
+
+.aroma-india-more-info{
+  background-color: #9b6a41;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
 }
 
 /* THE OFFERING SECTION */
@@ -432,7 +471,7 @@ height: 300px;
 
 .offering-text {
  height: 194px;
-  padding-top: 20px;
+  padding-top: 2px;
 }
 
 .offering-h3 {
@@ -443,6 +482,20 @@ height: 300px;
 .offering-p {
   color: #a5aaa4;
   font-family: 'Playfair Display', serif;
+}
+
+.offering-more-info{
+  background-color: #b9bab7;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
 }
 
 /* THE WHITE SWAN SECTION */
@@ -463,7 +516,7 @@ height: 300px;
 
 .white-swan-text {
  height: 194px;
-  padding-top: 20px;
+  padding-top: 5px;
 }
 
 .white-swan-h3 {
@@ -474,6 +527,20 @@ height: 300px;
 .white-swan-p {
   color: #a5aaa4;
   font-family: 'Playfair Display', serif;
+}
+
+.white-swan-more-info{
+  background-color: #bc8721;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
 }
 
 /* 1860 SECTION */
@@ -494,7 +561,7 @@ height: 300px;
 
 .r1860-text {
  height: 194px;
-  padding-top: 20px;
+  padding-top: 2px;
 }
 
 .r1860-h3 {
@@ -505,6 +572,20 @@ height: 300px;
 .r1860-p {
   color: #a5aaa4;
   font-family: 'Playfair Display', serif;
+}
+
+.r1860-more-info{
+  background-color: #808992;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
 }
 
 /* CAHOOTS SECTION */
@@ -525,7 +606,7 @@ height: 300px;
 
 .cahoots-text {
  height: 194px;
-  padding-top: 20px;
+  padding-top: 5px;
 }
 
 .cahoots-h3 {
@@ -536,6 +617,20 @@ height: 300px;
 .cahoots-p {
   color: #a5aaa4;
   font-family: 'Playfair Display', serif;
+}
+
+.cahoots-more-info{
+  background-color: #d03e2c;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
 }
 
 /* THE GREYTOWN FISH SUPPLY SECTION */
@@ -569,6 +664,20 @@ height: 300px;
   font-family: 'Playfair Display', serif;
 }
 
+.greytown-fish-supply-more-info{
+  background-color: #aa3842;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
+}
+
 /* PINOCCHIO SECTION */
 
 .pinocchio-container{
@@ -598,6 +707,20 @@ height: 300px;
 .pinocchio-p {
   color: #a5aaa4;
   font-family: 'Playfair Display', serif;
+}
+
+.pinocchio-more-info{
+  background-color: #3f4a37;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
 }
 
 /* GREYTOWN KEBAB SECTION */
@@ -631,6 +754,20 @@ height: 300px;
   font-family: 'Playfair Display', serif;
 }
 
+.greytown-kebab-more-info{
+  background-color: #56412b;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
+}
+
 /* CUCKOO PIZZA SECTION */
 
 .cuckoo-container{
@@ -649,7 +786,7 @@ height: 300px;
 
 .cuckoo-text {
  height: 194px;
-  padding-top: 20px;
+  padding-top: 5px;
 }
 
 .cuckoo-h3 {
@@ -660,6 +797,20 @@ height: 300px;
 .cuckoo-p {
   color: #a5aaa4;
   font-family: 'Playfair Display', serif;
+}
+
+.cuckoo-more-info{
+  background-color: #dd3f42;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
 }
 
 /* CORNER CAFE SECTION */
@@ -680,7 +831,7 @@ height: 300px;
 
 .corner-cafe-text {
  height: 194px;
-  padding-top: 20px;
+  padding-top: 5px;
 }
 
 .corner-cafe-h3 {
@@ -691,6 +842,20 @@ height: 300px;
 .corner-cafe-p {
   color: #a5aaa4;
   font-family: 'Playfair Display', serif;
+}
+
+.corner-cafe-more-info{
+  background-color: #312f2d;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
 }
 
 /* THE FRENCH BAKER SECTION */
@@ -722,4 +887,18 @@ height: 300px;
 .the-french-baker-p {
   color: #a5aaa4;
   font-family: 'Playfair Display', serif;
+}
+
+.the-french-baker-more-info{
+  background-color: #6e7659;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
 }
