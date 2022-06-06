@@ -902,3 +902,356 @@ height: 300px;
   font-family: 'Varela Round', sans-serif;
   opacity: 50%;
 }
+
+/* ACCOMADATION PAGE */
+
+/* ACCOMADATION TOP IMAGE */
+
+.accomadation-top-img {
+overflow: hidden;
+object-fit: cover;
+object-position: 100% 0;
+margin-top: -10px;
+margin-bottom: 0px;
+margin-right: 200px;
+margin-left: -85px;
+height: 300px;
+}
+
+/* ACCOMADATION TITLE */
+
+.accomadation-title-h1 {
+  text-align: center;
+  color: #48514a;
+}
+
+/* GREYFRIARS MOTEL SECTION */
+
+.greyfriars-flex-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+.greyfriars-photo {
+  text-align: center;
+}
+
+.greyfriars-text {
+ height: 194px;
+  padding-top: 5px;
+}
+
+.greyfriars-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.greyfriars-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+.greyfriars-more-info{
+  background-color: #58611e;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
+}
+
+/* WHITE SWAN COUNTRY HOTEL SECTION */
+
+.white-swan-country-hotel-flex-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+.white-swan-country-hotel-photo {
+  text-align: center;
+}
+
+.white-swan-country-hotel-text {
+ height: 194px;
+  padding-top: 5px;
+}
+
+.white-swan-country-hotel-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.white-swan-country-hotel-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+.white-swan-country-hotel-more-info{
+  background-color: #649bc1;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
+}
+
+/* OAK ESTATE MOTOR LODGE SECTION */
+
+.oak-estate-motor-lodge-flex-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+.oak-estate-motor-lodge-photo {
+  text-align: center;
+}
+
+.oak-estate-motor-lodge-text {
+ height: 194px;
+  padding-top: 5px;
+}
+
+.oak-estate-motor-lodge-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.oak-estate-motor-lodge-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+.white-swan-country-hotel-more-info{
+  background-color: #649bc1;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
+}
+
+/* SHOPS & PLACES PAGE */
+
+/* SHOPS TOP IMAGE */
+
+.shops-top-img {
+overflow: hidden;
+object-fit: cover;
+object-position: 100% 0;
+margin-top: -10px;
+margin-bottom: 0px;
+margin-right: 200px;
+margin-left: -85px;
+height: 300px;
+}
+
+/* SHOPS TITLE */
+
+.shops-title-h1 {
+  text-align: center;
+  color: #48514a;
+}
+
+/* FRESHCHOICE SECTION */
+
+.freshchoice-flex-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.freshchoice-photo {
+  text-align: center;
+}
+
+.freshchoice-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.freshchoice-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.freshchoice-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* COBBLESTONE MUSEUM SECTION */
+
+.cobblestone-flex-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.cobblestone-photo {
+  text-align: center;
+}
+
+.cobblestone-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.cobblestone-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.cobblestone-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* STITCH SECTION */
+
+.stitch-flex-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.stitch-photo {
+  text-align: center;
+}
+
+.stitch-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.stitch-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.stitch-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* HALL SECTION */
+
+.hall-flex-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.hall-photo {
+  text-align: center;
+}
+
+.hall-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.hall-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.hall-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* NIRVANA INTERIORS SECTION */
+
+.nirvana-flex-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.nirvana-photo {
+  text-align: center;
+}
+
+.nirvana-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.nirvana-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.nirvana-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+/* HISTORY PAGE */
+
+/* HISTORY TOP IMAGE */
+
+.history-top-img {
+overflow: hidden;
+object-fit: cover;
+object-position: 100% 0;
+margin-top: -10px;
+margin-bottom: 0px;
+margin-right: 200px;
+margin-left: -85px;
+height: 300px;
+}
+
+/* HISTORY TITLE */
+
+.history-title-h1 {
+  text-align: center;
+  color: #48514a;
+}
