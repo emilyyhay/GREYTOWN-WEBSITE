@@ -903,6 +903,51 @@ height: 300px;
   opacity: 50%;
 }
 
+/* THE LOLLY JAR SECTION */
+
+.lolly-jar-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.lolly-jar-photo {
+  text-align: center;
+}
+
+.lolly-jar-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.lolly-jar-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.lolly-jar-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+.lolly-jar-more-info{
+  background-color: #8aba78;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
+}
+
 /* ACCOMADATION PAGE */
 
 /* ACCOMADATION TOP IMAGE */
@@ -1043,8 +1088,140 @@ height: 300px;
   font-family: 'Playfair Display', serif;
 }
 
-.white-swan-country-hotel-more-info{
-  background-color: #649bc1;
+.oak-estate-motor-lodge-more-info{
+  background-color: #b7544d;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
+}
+
+/* THE SADDLERY SECTION */
+
+.the-saddlery-flex-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+.the-saddlery-photo {
+  text-align: center;
+}
+
+.the-saddlery-text {
+ height: 194px;
+  padding-top: 5px;
+}
+
+.the-saddlery-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.the-saddlery-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+.the-saddlery-more-info{
+  background-color: #25371b;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
+}
+
+/* WYETT HOUSE HOMESTAYS SECTION */
+
+.wyett-house-homestays-flex-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+.wyett-house-homestays-photo {
+  text-align: center;
+}
+
+.the-saddlery-text {
+ height: 194px;
+  padding-top: 5px;
+}
+
+.wyett-house-homestays-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.wyett-house-homestays-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+.wyett-house-homestays-more-info{
+  background-color: #878c8e;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  padding: 10px 27px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  font-family: 'Varela Round', sans-serif;
+  opacity: 50%;
+}
+
+/* LAVENDER COTTAGE SECTION */
+
+.lavender-cottage-flex-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+.lavender-cottage-photo {
+  text-align: center;
+}
+
+.lavender-cottage-text {
+ height: 194px;
+  padding-top: 5px;
+}
+
+.lavender-cottage-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.lavender-cottage-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
+.lavender-cottage-more-info{
+  background-color: #bfa2cd;
   border: none;
   border-radius: 8px;
   color: white;
@@ -1234,6 +1411,37 @@ height: 300px;
   font-family: 'Playfair Display', serif;
 }
 
+/* STELLA BULL PARK SECTION */
+
+.stella-bull-park-flex-container{
+   width: 700px;
+  margin: auto;
+}
+.floatLeft {
+  float: left;
+  padding-right: 20px;
+  
+}
+
+.stella-bull-park-photo {
+  text-align: center;
+}
+
+.stella-bull-park-text {
+ height: 194px;
+  padding-top: 20px;
+}
+
+.stella-bull-park-h3 {
+ color: #48514a;
+ text-decoration: underline;
+}
+
+.stella-bull-park-p {
+  color: #a5aaa4;
+  font-family: 'Playfair Display', serif;
+}
+
 /* HISTORY PAGE */
 
 /* HISTORY TOP IMAGE */
@@ -1254,4 +1462,27 @@ height: 300px;
 .history-title-h1 {
   text-align: center;
   color: #48514a;
+}
+
+.history-para-1 {
+  text-align: center;
+  margin-right: 25%;
+  margin-left: 25%;
+  color: #48514a;
+  font-family: 'Playfair Display', serif;
+}
+
+.history-photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.history-para-2 {
+  text-align: center;
+  margin-right: 25%;
+  margin-left: 25%;
+  color: #48514a;
+  font-family: 'Playfair Display', serif;
 }
